@@ -21,7 +21,7 @@ Takıldığın noktalar olursa bu mail adresi üzerinden iletişim kurabiliriz. 
 
 ``HTTP protokollü Network kütüphanesi, veri çekme islemleri icin kullanildi ``
 
-** LiveData**
+**LiveData**
 
 ``  View Model ‘in kullanımı kolaylaştırmasiyla beraber memory leak hatasini onler. Livedata uzerinden viewlari guncellenir.``
 
