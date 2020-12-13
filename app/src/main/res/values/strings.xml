@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="moviename">Movie Name</string>
+    <string name="transition_name_details">details_image</string>
+    <string name="discover">Discover</string>
+    <string name="recommendations">Recommendations:</string>
+    <string name="show_more">Show More</string>
+    <string name="search_title">Search</string>
+    <string name="release_date">Release Date</string>
+    <string name="placeholder">-</string>
+    <string name="rating">Rating</string>
+    <string name="runtime">Runtime</string>
+    <string name="cast">Cast</string>
+    <string name="about">About</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_desc">This app gets all its information and pictures from The Movie DB. Thanks for providing an open API and making this app possible.</string>
+    <string name="close">Close</string>
+</resources>
