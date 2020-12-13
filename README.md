@@ -23,7 +23,7 @@ Takıldığın noktalar olursa bu mail adresi üzerinden iletişim kurabiliriz. 
 
 **LiveData**
 
-``  View Model ‘in kullanımı kolaylaştırmasiyla beraber memory leak hatasini onler. Livedata uzerinden viewlari guncellenir.``
+``  View Model ‘in kullanımı kolaylaştırmasiyla beraber memory leak hatasini onler. Livedata uzerinden viewlari gunceller.``
 
 **Corountine**
 
