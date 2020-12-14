@@ -1,8 +1,5 @@
 # MovieApp
 
-Geliştirmeni Kotlin ile yapmanı ayrıca  kullandığın mimariyi(istediğini tercih edebilirsin)  ve kütüphaneleri  neden 
-tercih ettiğinle beraber açıklamanı istiyoruz.
-Takıldığın noktalar olursa bu mail adresi üzerinden iletişim kurabiliriz. Maili aldığını teyit edersen sevinirim
 
 **MVVM mimarisini tercih edildi ->**
 
